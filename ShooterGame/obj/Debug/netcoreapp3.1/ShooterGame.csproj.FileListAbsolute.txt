@@ -1,0 +1,84 @@
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.exe
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.deps.json
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.runtimeconfig.json
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.runtimeconfig.dev.json
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.dll
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.pdb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.AssemblyInfoInputs.cache
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.AssemblyInfo.cs
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.csproj.CoreCompileInputs.cache
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.csproj.CopyComplete
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.dll
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.pdb
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.genruntimeconfig.cache
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\bgLayer1.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\bgLayer2.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\endMenu.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\explosion.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\gameFont.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\laser.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mainbackground.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mainMenu.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mine.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mineAnimation.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\player.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\shipAnimation.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\explosion.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\gameMusic.ogg
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\gameMusic.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\laserFire.xnb
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\menuMusic.ogg
+C:\Monogame Projects\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\menuMusic.xnb
+C:\Monogame Projects\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.csproj.AssemblyReference.cache
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\bgLayer1.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\bgLayer2.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\endMenu.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\explosion.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\gameFont.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\laser.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mainbackground.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mainMenu.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mine.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\mineAnimation.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\player.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Graphics\shipAnimation.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\explosion.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\gameMusic.ogg
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\gameMusic.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\laserFire.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\menuMusic.ogg
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\Content\Sound\menuMusic.xnb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.exe
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.deps.json
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.runtimeconfig.json
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.runtimeconfig.dev.json
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\ShooterGame.pdb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.csproj.AssemblyReference.cache
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.AssemblyInfoInputs.cache
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.AssemblyInfo.cs
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.csproj.CoreCompileInputs.cache
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.csproj.CopyComplete
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.dll
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.pdb
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.genruntimeconfig.cache
+C:\UniYear4\GamesArchitecture\ShooterGameComplete\ShooterGame\obj\Debug\netcoreapp3.1\ShooterGame.GeneratedMSBuildEditorConfig.editorconfig

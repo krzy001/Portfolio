@@ -1,0 +1,17 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Monogame Projects/ShooterGame/Content/Graphics/bgLayer1.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/bgLayer1.xnb","TextureProcessor","Texture2DContent",218274,1536085,0.3450079
+"C:/Monogame Projects/ShooterGame/Content/Graphics/bgLayer2.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/bgLayer2.xnb","TextureProcessor","Texture2DContent",433043,1536085,0.0509242
+"C:/Monogame Projects/ShooterGame/Content/Graphics/endMenu.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/endMenu.xnb","TextureProcessor","Texture2DContent",470692,1536085,0.0594402
+"C:/Monogame Projects/ShooterGame/Content/Graphics/explosion.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/explosion.xnb","TextureProcessor","Texture2DContent",253361,858757,0.032151
+"C:/Monogame Projects/ShooterGame/Content/Graphics/gameFont.spritefont","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/gameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2009,70690,0.1819436
+"C:/Monogame Projects/ShooterGame/Content/Graphics/laser.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/laser.xnb","TextureProcessor","Texture2DContent",1612,3029,0.0064938
+"C:/Monogame Projects/ShooterGame/Content/Graphics/mainbackground.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/mainbackground.xnb","TextureProcessor","Texture2DContent",206786,1536085,0.0484699
+"C:/Monogame Projects/ShooterGame/Content/Graphics/mainMenu.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/mainMenu.xnb","TextureProcessor","Texture2DContent",584741,1536085,0.0584583
+"C:/Monogame Projects/ShooterGame/Content/Graphics/mine.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/mine.xnb","TextureProcessor","Texture2DContent",7227,11553,0.0060042
+"C:/Monogame Projects/ShooterGame/Content/Graphics/mineAnimation.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/mineAnimation.xnb","TextureProcessor","Texture2DContent",20028,91829,0.0096804
+"C:/Monogame Projects/ShooterGame/Content/Graphics/player.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/player.xnb","TextureProcessor","Texture2DContent",15718,32101,0.0064686
+"C:/Monogame Projects/ShooterGame/Content/Graphics/shipAnimation.png","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Graphics/shipAnimation.xnb","TextureProcessor","Texture2DContent",40238,254005,0.0125921
+"C:/Monogame Projects/ShooterGame/Content/Sound/explosion.wav","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Sound/explosion.xnb","SoundEffectProcessor","SoundEffectContent",149246,144635,1.6701508
+"C:/Monogame Projects/ShooterGame/Content/Sound/gameMusic.mp3","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Sound/gameMusic.xnb","SongProcessor","SongContent",2047965,127,3.5576632
+"C:/Monogame Projects/ShooterGame/Content/Sound/laserFire.wav","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Sound/laserFire.xnb","SoundEffectProcessor","SoundEffectContent",26322,23323,1.3887604
+"C:/Monogame Projects/ShooterGame/Content/Sound/menuMusic.mp3","C:/Monogame Projects/ShooterGame/Content/bin/DesktopGL/Sound/menuMusic.xnb","SongProcessor","SongContent",770694,127,2.1293871

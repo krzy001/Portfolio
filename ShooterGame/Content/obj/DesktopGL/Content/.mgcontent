@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/bgLayer1.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/bgLayer2.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/endMenu.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/explosion.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/gameFont.spritefont</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/laser.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/mainbackground.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/mainMenu.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/mine.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/mineAnimation.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/player.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Graphics/shipAnimation.png</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Sound/explosion.wav</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Sound/gameMusic.mp3</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Sound/laserFire.wav</File>
+    <File>C:/UniYear4/GamesArchitecture/ShooterGameComplete/ShooterGame/Content/Sound/menuMusic.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
